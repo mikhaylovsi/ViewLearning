@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ViewLearning</string>
+    <string name="to">To</string>
+    <string name="emailHint">Type there your e-mail</string>
+    <string name="message">Message</string>
+    <string name="touch">Touch me</string>
+
 </resources>
