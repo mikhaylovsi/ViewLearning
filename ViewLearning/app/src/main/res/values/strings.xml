@@ -7,4 +7,9 @@
     <string name="sugar">Sugar</string>
     <string name="lemon">Lemon</string>
 
+    <string name="to">To</string>
+    <string name="emailHint">Type there your e-mail</string>
+    <string name="message">Message</string>
+    <string name="touch">Touch Me</string>
+
 </resources>
