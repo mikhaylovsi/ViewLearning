@@ -1,8 +1,10 @@
 <resources>
-    <string name="app_name">ViewLearning</string>
-    <string name="to">To</string>
-    <string name="emailHint">Type there your e-mail</string>
-    <string name="message">Message</string>
-    <string name="touch">Touch me</string>
+    <string name="question">Thanks for choosing our awesome blend tea. How do you want it serving?</string>
+    <string name="app_name"> </string>
+    <string name="temperature">Temperature:</string>
+    <string name="hot">HOT</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
 
 </resources>
